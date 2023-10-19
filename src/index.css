@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.rvenue-style{
+    border-radius: 8px;
+background: linear-gradient(90deg, #BB34F5 0%, #FCDBFF 100%);
+}
+
+.customers-style{
+    border-radius: 8px;
+    background: linear-gradient(90deg, #D3A256 0%, #FDE8C0 100%);
+}
+
+.products-style{
+    border-radius: 8px;
+    background: linear-gradient(90deg, #FE4880 0%, #FECDE9 100%);
+}
+.orders-style{
+    border-radius: 8px;
+background: linear-gradient(90deg, #6AAEFF 0%, #B6F7FF 100%);
+}
+
+.footer-bg{
+    background: linear-gradient(107deg, #2F42B5 0.65%, rgba(4, 6, 15, 0.96) 98.25%);
+}
+
+.navbar-style{
+    background: rgb(35,26,200);
+background: linear-gradient(90deg, rgba(35,26,200,1) 0%, rgba(168,73,184,1) 98%, rgba(39,74,210,0.9444152661064426) 100%, rgba(75,112,120,1) 100%);
+}

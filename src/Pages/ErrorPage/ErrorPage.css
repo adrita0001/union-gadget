@@ -1,0 +1,14 @@
+.errorPage{
+    width: 100%;
+   
+  height: 100vh;
+    /* background: url(''); */
+    /* background: url('../../assets/404-page.jpg'); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: darken, luminosity;
+    background-size: cover;
+    object-fit: cover;
+   
+    opacity: 0.9;
+}
